@@ -1,0 +1,16 @@
+body{
+    font-style: italic;
+}
+.navbar {background-color: rgb(65, 6, 121);}
+.advance{
+    background-color: rgb(7, 131, 189);
+    color: rgb(70, 60, 50);
+}
+.margin{padding-bottom:20px;
+    padding-top: 15px;
+}
+.abc{
+    background-color: royalblue;padding-top:50px;
+}
+.bg-footer{color: white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
